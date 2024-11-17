@@ -1,12 +1,13 @@
 ## Minina Ekaterina
-<img src="https://github.com/user-attachments/assets/3d37d2f5-77ed-41c4-897d-d4c626ffb0f7" width="200" height="200">
+
+<img src="https://github.com/user-attachments/assets/7b54f5dd-65ff-4a87-8843-b877bb65e315" width="200" height="200">
+
+
 ### Contact Information
 * Email: katyaminina24@gmail.com
 * Phone number: +375293037883
 * GitHub: [Kaaterinam](https://github.com/Kaaterinam)
 * Location: Minsk, Belarus
-
-
 ### About me
 At this moment I am a beginner in programming.  The idea to study this sphere appeared quite unexpectedly, but in a short period of education I am already making great progress. 
 About myself I can say the following - I am a very responsible and intelligent person. Studying at medical university and working with people has taught me to be patient and emotionally tough. I am willing to learn a lot of new information in order to become a professional in programming. 

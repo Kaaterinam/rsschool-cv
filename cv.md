@@ -1,5 +1,5 @@
 ## Minina Ekaterina
-![photo_2024-11-17_16-28-03](https://github.com/user-attachments/assets/3d37d2f5-77ed-41c4-897d-d4c626ffb0f7 { {width=250px height=250px})
+<img src="https://github.com/user-attachments/assets/3d37d2f5-77ed-41c4-897d-d4c626ffb0f7" width="200" height="200">
 ### Contact Information
 * Email: katyaminina24@gmail.com
 * Phone number: +375293037883

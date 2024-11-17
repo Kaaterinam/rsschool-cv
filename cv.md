@@ -1,7 +1,5 @@
 # RS School
-===
 ## Minina Ekaterina
-===
 ### Contact Information
 * Email: katyaminina24@gmail.com
 * Phone namber: +375293037883

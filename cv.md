@@ -3,7 +3,7 @@
 ### Contact Information
 * Email: katyaminina24@gmail.com
 * Phone namber: +375293037883
-* GitHub: Kaaterinam
+* GitHub: [Kaaterinam](https://github.com/Kaaterinam)
 * Location: Minsk, Belarus
 
 

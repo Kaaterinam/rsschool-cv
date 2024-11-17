@@ -48,5 +48,5 @@ Belarusian State Medical University, *Faculty of Dentistry*
 **English level**-B1
 
 
-**Language practice** During my school years I repeatedly attended European projects. Communication with foreign friends and discussions on various project topics helped to achieve a good level of spoken English.
+**Language practice.** During my school years I repeatedly attended European projects. Communication with foreign friends and discussions on various project topics helped to achieve a good level of spoken English.
   

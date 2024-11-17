@@ -1,5 +1,5 @@
-# RS School
 ## Minina Ekaterina
+![photo_2024-11-17_16-28-03](https://github.com/user-attachments/assets/3d37d2f5-77ed-41c4-897d-d4c626ffb0f7)
 ### Contact Information
 * Email: katyaminina24@gmail.com
 * Phone number: +375293037883
@@ -42,6 +42,9 @@ sumInput()
 
 ### Education
 Belarusian State Medical University, *Faculty of Dentistry*
+
+### Progects
+[My first progect](https://kaaterinam.github.io/rsschool-cv/cv)
 
 
 ### English level
